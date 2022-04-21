@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Handle a form's submit event in React
+- Hangit@github.com:Miriamfark/react-hooks-forms-submit.gitdle a form's submit event in React
 - Use controlled inputs to validate values
 
 ## Introduction
